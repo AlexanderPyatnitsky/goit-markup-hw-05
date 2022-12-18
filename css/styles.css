@@ -133,9 +133,9 @@ ul {
 
 }
 
-.menu-list .menu-activ::after {
+/* .menu-list .menu-activ::after {
     opacity: (1);
-}
+} */
 
 .menu-item:hover,
 .menu-item:focus {
